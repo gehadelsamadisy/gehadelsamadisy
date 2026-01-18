@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Software Engineer 💻</h3>
+<h3 align="left">Backend Engineer | Ai/ML Engineer 💻</h3>
 
 ###
 
